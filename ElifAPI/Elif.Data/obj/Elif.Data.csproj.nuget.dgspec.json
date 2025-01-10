@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/elifnurbinici/Documents/GitHub/ElifAPI/Elif.Data/Elif.Data.csproj": {}
+    "/Users/elifnurbinici/Documents/GitHub/Daily.API/ElifAPI/Elif.Data/Elif.Data.csproj": {}
   },
   "projects": {
-    "/Users/elifnurbinici/Documents/GitHub/ElifAPI/Elif.Data/Elif.Data.csproj": {
+    "/Users/elifnurbinici/Documents/GitHub/Daily.API/ElifAPI/Elif.Data/Elif.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/elifnurbinici/Documents/GitHub/ElifAPI/Elif.Data/Elif.Data.csproj",
+        "projectUniqueName": "/Users/elifnurbinici/Documents/GitHub/Daily.API/ElifAPI/Elif.Data/Elif.Data.csproj",
         "projectName": "Elif.Data",
-        "projectPath": "/Users/elifnurbinici/Documents/GitHub/ElifAPI/Elif.Data/Elif.Data.csproj",
+        "projectPath": "/Users/elifnurbinici/Documents/GitHub/Daily.API/ElifAPI/Elif.Data/Elif.Data.csproj",
         "packagesPath": "/Users/elifnurbinici/.nuget/packages/",
-        "outputPath": "/Users/elifnurbinici/Documents/GitHub/ElifAPI/Elif.Data/obj/",
+        "outputPath": "/Users/elifnurbinici/Documents/GitHub/Daily.API/ElifAPI/Elif.Data/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/elifnurbinici/.nuget/NuGet/NuGet.Config"
@@ -26,11 +26,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "/Users/elifnurbinici/Documents/GitHub/ElifAPI/Elif.Entity/Elif.Entity.csproj": {
-                "projectPath": "/Users/elifnurbinici/Documents/GitHub/ElifAPI/Elif.Entity/Elif.Entity.csproj"
+              "/Users/elifnurbinici/Documents/GitHub/Daily.API/ElifAPI/Elif.Entity/Elif.Entity.csproj": {
+                "projectPath": "/Users/elifnurbinici/Documents/GitHub/Daily.API/ElifAPI/Elif.Entity/Elif.Entity.csproj"
               },
-              "/Users/elifnurbinici/Documents/GitHub/ElifAPI/Elif.Shared/Elif.Shared.csproj": {
-                "projectPath": "/Users/elifnurbinici/Documents/GitHub/ElifAPI/Elif.Shared/Elif.Shared.csproj"
+              "/Users/elifnurbinici/Documents/GitHub/Daily.API/ElifAPI/Elif.Shared/Elif.Shared.csproj": {
+                "projectPath": "/Users/elifnurbinici/Documents/GitHub/Daily.API/ElifAPI/Elif.Shared/Elif.Shared.csproj"
               }
             }
           }
@@ -79,14 +79,14 @@
         }
       }
     },
-    "/Users/elifnurbinici/Documents/GitHub/ElifAPI/Elif.Entity/Elif.Entity.csproj": {
+    "/Users/elifnurbinici/Documents/GitHub/Daily.API/ElifAPI/Elif.Entity/Elif.Entity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/elifnurbinici/Documents/GitHub/ElifAPI/Elif.Entity/Elif.Entity.csproj",
+        "projectUniqueName": "/Users/elifnurbinici/Documents/GitHub/Daily.API/ElifAPI/Elif.Entity/Elif.Entity.csproj",
         "projectName": "Elif.Entity",
-        "projectPath": "/Users/elifnurbinici/Documents/GitHub/ElifAPI/Elif.Entity/Elif.Entity.csproj",
+        "projectPath": "/Users/elifnurbinici/Documents/GitHub/Daily.API/ElifAPI/Elif.Entity/Elif.Entity.csproj",
         "packagesPath": "/Users/elifnurbinici/.nuget/packages/",
-        "outputPath": "/Users/elifnurbinici/Documents/GitHub/ElifAPI/Elif.Entity/obj/",
+        "outputPath": "/Users/elifnurbinici/Documents/GitHub/Daily.API/ElifAPI/Elif.Entity/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/elifnurbinici/.nuget/NuGet/NuGet.Config"
@@ -101,8 +101,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "/Users/elifnurbinici/Documents/GitHub/ElifAPI/Elif.Shared/Elif.Shared.csproj": {
-                "projectPath": "/Users/elifnurbinici/Documents/GitHub/ElifAPI/Elif.Shared/Elif.Shared.csproj"
+              "/Users/elifnurbinici/Documents/GitHub/Daily.API/ElifAPI/Elif.Shared/Elif.Shared.csproj": {
+                "projectPath": "/Users/elifnurbinici/Documents/GitHub/Daily.API/ElifAPI/Elif.Shared/Elif.Shared.csproj"
               }
             }
           }
@@ -141,14 +141,14 @@
         }
       }
     },
-    "/Users/elifnurbinici/Documents/GitHub/ElifAPI/Elif.Shared/Elif.Shared.csproj": {
+    "/Users/elifnurbinici/Documents/GitHub/Daily.API/ElifAPI/Elif.Shared/Elif.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/elifnurbinici/Documents/GitHub/ElifAPI/Elif.Shared/Elif.Shared.csproj",
+        "projectUniqueName": "/Users/elifnurbinici/Documents/GitHub/Daily.API/ElifAPI/Elif.Shared/Elif.Shared.csproj",
         "projectName": "Elif.Shared",
-        "projectPath": "/Users/elifnurbinici/Documents/GitHub/ElifAPI/Elif.Shared/Elif.Shared.csproj",
+        "projectPath": "/Users/elifnurbinici/Documents/GitHub/Daily.API/ElifAPI/Elif.Shared/Elif.Shared.csproj",
         "packagesPath": "/Users/elifnurbinici/.nuget/packages/",
-        "outputPath": "/Users/elifnurbinici/Documents/GitHub/ElifAPI/Elif.Shared/obj/",
+        "outputPath": "/Users/elifnurbinici/Documents/GitHub/Daily.API/ElifAPI/Elif.Shared/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/elifnurbinici/.nuget/NuGet/NuGet.Config"

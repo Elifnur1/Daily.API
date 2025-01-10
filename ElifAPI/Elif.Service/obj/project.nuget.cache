@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Gt7aYqLvSMk=",
+  "dgSpecHash": "rIgqUurcS+s=",
   "success": true,
-  "projectFilePath": "/Users/elifnurbinici/Documents/GitHub/ElifAPI/Elif.Service/Elif.Service.csproj",
+  "projectFilePath": "/Users/elifnurbinici/Documents/GitHub/Daily.API/ElifAPI/Elif.Service/Elif.Service.csproj",
   "expectedPackageFiles": [
     "/Users/elifnurbinici/.nuget/packages/azure.core/1.38.0/azure.core.1.38.0.nupkg.sha512",
     "/Users/elifnurbinici/.nuget/packages/azure.identity/1.11.4/azure.identity.1.11.4.nupkg.sha512",

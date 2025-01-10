@@ -10,5 +10,10 @@ public class AppDbContext : DbContext
     {
 
     }
-    public DbSet<Product> Products { get; set; } 
+    public DbSet<Product> Products { get; set; }
+
+    internal async Task<IEnumerable<object>> AddAsync()
+    {
+        throw new NotImplementedException();
+    }
 }

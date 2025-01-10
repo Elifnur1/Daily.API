@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/elifnurbinici/Documents/GitHub/ElifAPI/Elif.Shared/Elif.Shared.csproj": {}
+    "/Users/elifnurbinici/Documents/GitHub/Daily.API/ElifAPI/Elif.Shared/Elif.Shared.csproj": {}
   },
   "projects": {
-    "/Users/elifnurbinici/Documents/GitHub/ElifAPI/Elif.Shared/Elif.Shared.csproj": {
+    "/Users/elifnurbinici/Documents/GitHub/Daily.API/ElifAPI/Elif.Shared/Elif.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/elifnurbinici/Documents/GitHub/ElifAPI/Elif.Shared/Elif.Shared.csproj",
+        "projectUniqueName": "/Users/elifnurbinici/Documents/GitHub/Daily.API/ElifAPI/Elif.Shared/Elif.Shared.csproj",
         "projectName": "Elif.Shared",
-        "projectPath": "/Users/elifnurbinici/Documents/GitHub/ElifAPI/Elif.Shared/Elif.Shared.csproj",
+        "projectPath": "/Users/elifnurbinici/Documents/GitHub/Daily.API/ElifAPI/Elif.Shared/Elif.Shared.csproj",
         "packagesPath": "/Users/elifnurbinici/.nuget/packages/",
-        "outputPath": "/Users/elifnurbinici/Documents/GitHub/ElifAPI/Elif.Shared/obj/",
+        "outputPath": "/Users/elifnurbinici/Documents/GitHub/Daily.API/ElifAPI/Elif.Shared/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/elifnurbinici/.nuget/NuGet/NuGet.Config"

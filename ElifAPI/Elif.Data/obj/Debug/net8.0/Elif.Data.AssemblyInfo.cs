@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Elif.Data")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fc4f114f574ccdd7a19a9d9a64feb750974c839e")]
 [assembly: System.Reflection.AssemblyProductAttribute("Elif.Data")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Elif.Data")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
