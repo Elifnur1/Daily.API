@@ -1,0 +1,6 @@
+@ElifApi_HostAddress = http://localhost:5075
+
+GET {{ElifApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

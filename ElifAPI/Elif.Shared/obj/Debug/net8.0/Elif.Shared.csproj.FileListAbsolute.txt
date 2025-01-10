@@ -1,0 +1,11 @@
+/Users/elifnurbinici/Documents/GitHub/ElifAPI/Elif.Shared/bin/Debug/net8.0/Elif.Shared.deps.json
+/Users/elifnurbinici/Documents/GitHub/ElifAPI/Elif.Shared/bin/Debug/net8.0/Elif.Shared.dll
+/Users/elifnurbinici/Documents/GitHub/ElifAPI/Elif.Shared/bin/Debug/net8.0/Elif.Shared.pdb
+/Users/elifnurbinici/Documents/GitHub/ElifAPI/Elif.Shared/obj/Debug/net8.0/Elif.Shared.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elifnurbinici/Documents/GitHub/ElifAPI/Elif.Shared/obj/Debug/net8.0/Elif.Shared.AssemblyInfoInputs.cache
+/Users/elifnurbinici/Documents/GitHub/ElifAPI/Elif.Shared/obj/Debug/net8.0/Elif.Shared.AssemblyInfo.cs
+/Users/elifnurbinici/Documents/GitHub/ElifAPI/Elif.Shared/obj/Debug/net8.0/Elif.Shared.csproj.CoreCompileInputs.cache
+/Users/elifnurbinici/Documents/GitHub/ElifAPI/Elif.Shared/obj/Debug/net8.0/Elif.Shared.dll
+/Users/elifnurbinici/Documents/GitHub/ElifAPI/Elif.Shared/obj/Debug/net8.0/refint/Elif.Shared.dll
+/Users/elifnurbinici/Documents/GitHub/ElifAPI/Elif.Shared/obj/Debug/net8.0/Elif.Shared.pdb
+/Users/elifnurbinici/Documents/GitHub/ElifAPI/Elif.Shared/obj/Debug/net8.0/ref/Elif.Shared.dll

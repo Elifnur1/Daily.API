@@ -1,0 +1,17 @@
+/Users/elifnurbinici/Documents/GitHub/ElifAPI/Elif.Data/bin/Debug/net8.0/Elif.Data.deps.json
+/Users/elifnurbinici/Documents/GitHub/ElifAPI/Elif.Data/bin/Debug/net8.0/Elif.Data.dll
+/Users/elifnurbinici/Documents/GitHub/ElifAPI/Elif.Data/bin/Debug/net8.0/Elif.Data.pdb
+/Users/elifnurbinici/Documents/GitHub/ElifAPI/Elif.Data/bin/Debug/net8.0/Elif.Entity.dll
+/Users/elifnurbinici/Documents/GitHub/ElifAPI/Elif.Data/bin/Debug/net8.0/Elif.Shared.dll
+/Users/elifnurbinici/Documents/GitHub/ElifAPI/Elif.Data/bin/Debug/net8.0/Elif.Entity.pdb
+/Users/elifnurbinici/Documents/GitHub/ElifAPI/Elif.Data/bin/Debug/net8.0/Elif.Shared.pdb
+/Users/elifnurbinici/Documents/GitHub/ElifAPI/Elif.Data/obj/Debug/net8.0/Elif.Data.csproj.AssemblyReference.cache
+/Users/elifnurbinici/Documents/GitHub/ElifAPI/Elif.Data/obj/Debug/net8.0/Elif.Data.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elifnurbinici/Documents/GitHub/ElifAPI/Elif.Data/obj/Debug/net8.0/Elif.Data.AssemblyInfoInputs.cache
+/Users/elifnurbinici/Documents/GitHub/ElifAPI/Elif.Data/obj/Debug/net8.0/Elif.Data.AssemblyInfo.cs
+/Users/elifnurbinici/Documents/GitHub/ElifAPI/Elif.Data/obj/Debug/net8.0/Elif.Data.csproj.CoreCompileInputs.cache
+/Users/elifnurbinici/Documents/GitHub/ElifAPI/Elif.Data/obj/Debug/net8.0/Elif.Data.csproj.Up2Date
+/Users/elifnurbinici/Documents/GitHub/ElifAPI/Elif.Data/obj/Debug/net8.0/Elif.Data.dll
+/Users/elifnurbinici/Documents/GitHub/ElifAPI/Elif.Data/obj/Debug/net8.0/refint/Elif.Data.dll
+/Users/elifnurbinici/Documents/GitHub/ElifAPI/Elif.Data/obj/Debug/net8.0/Elif.Data.pdb
+/Users/elifnurbinici/Documents/GitHub/ElifAPI/Elif.Data/obj/Debug/net8.0/ref/Elif.Data.dll
